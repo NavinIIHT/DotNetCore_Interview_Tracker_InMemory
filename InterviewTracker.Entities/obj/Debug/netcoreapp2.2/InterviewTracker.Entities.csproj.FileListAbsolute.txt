@@ -1,0 +1,46 @@
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3\Project\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csprojAssemblyReference.cache
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+D:\IIHT DATA\IIHT\Task_3_4\Project-InMemory\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.deps.json
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\bin\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.AssemblyInfo.cs
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.dll
+C:\Users\Uma Kumar\Desktop\Interviewtracker\InterviewTracker.Entities\obj\Debug\netcoreapp2.2\InterviewTracker.Entities.pdb
